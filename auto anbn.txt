@@ -1,0 +1,9 @@
+3
+ab
+AZ
+3
+1 a Z 1 AZ
+1 a A 1 AA
+1 b A 2 &
+2 b A 2 &
+2 & Z 3 &
